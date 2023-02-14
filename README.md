@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalho com Front-End 
 - 🌱 Estudando Analise de Dados
+- 🕵️‍♂️ Experiência com Hardware
 - 😄 Pronouns: ele/dele
 
 <div align="center">
